@@ -74,15 +74,6 @@ Actualmente estoy aprendiendo desarrollo web mientras construyo pequeños proyec
 
 ---
 
-# 🐍 Snake de contribuciones
-
-<p align="center">
-
-<img src="https://github.com/VarasKentaki/VarasKentaki/blob/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
 
 # 🎯 Objetivos
 
