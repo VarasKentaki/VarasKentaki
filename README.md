@@ -15,17 +15,17 @@
 
 ---
 
-# 🧠 Tecnologías que estoy aprendiendo
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse&perline=5" />
 
 </p>
 
 ### ☕ Backend
 
-* Java (**aprendiendo en Eclipse**)
+* Java (Eclipse)
 
 ### 🌐 Frontend
 
@@ -46,34 +46,17 @@
 * XPath
 * XQuery
 
-### 🧰 Herramientas
-
-* Eclipse IDE
-* Visual Studio Code
-* Git
-* GitHub
-
 ---
 
 # 📚 Actualmente aprendiendo
 
-### 🟢 Nivel intermedio
+* ☕ **Java** (en Eclipse)
+* 🌐 **HTML y CSS**
+* ⚡ **JavaScript**
+* 🗄️ **Bases de Datos** (Oracle y MySQL)
+* 📄 **XML** (DTD, XSD, XPath, XQuery)
 
-* Java
-* HTML
-* CSS
-* XML (DTD, XSD, XPath, XQuery)
-* Bases de Datos (Oracle, MySQL)
-
-### 🟡 Aprendiendo actualmente
-
-* JavaScript
-
-### 🔜 Próximamente
-
-* Frameworks de JavaScript
-* Backend más avanzado
-* Desarrollo de aplicaciones web completas
+Actualmente estoy aprendiendo desarrollo web mientras construyo pequeños proyectos para mejorar mis habilidades.
 
 ---
 
@@ -88,6 +71,16 @@
 # 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarasKentaki\&theme=cobalt\&locale=es)](https://git.io/streak-stats)
+
+---
+
+# 🐍 Snake de contribuciones
+
+<p align="center">
+
+<img src="https://github.com/VarasKentaki/VarasKentaki/blob/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 ---
 
