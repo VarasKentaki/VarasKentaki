@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hola, soy Alvaro</h1>
 
 <p align="center">
-💻 Desarrollador en aprendizaje | 🌐 Futuro desarrollador web | 🚀 Construyendo proyectos mientras aprendo
+💻 Estudiante de Desarrollo de Aplicaciones Web (DAW) | 🚀 Aprendiendo programación | 🌐 Futuro desarrollador web
 </p>
 
 ---
 
 # 🚀 Sobre mí
 
-* 🎓 Estoy empezando en el mundo de la programación
-* 🌱 Actualmente aprendiendo **Java, HTML, CSS, JavaScript, XML y Bases de Datos**
+* 👨‍🎓 Estudiante de **1º de DAW (Desarrollo de Aplicaciones Web)**
+* 🌱 Actualmente aprendiendo **programación y desarrollo web**
 * 💡 Me gusta aprender creando proyectos y experimentando
 * 🎯 Objetivo: Convertirme en **desarrollador web profesional**
 
@@ -33,7 +33,7 @@
 * CSS
 * JavaScript
 
-### 🗄️ Bases de datos
+### 🗄️ Bases de Datos
 
 * Oracle Database
 * MySQL
@@ -55,6 +55,28 @@
 
 ---
 
+# 📚 Actualmente aprendiendo
+
+### 🟢 Nivel intermedio
+
+* Java
+* HTML
+* CSS
+* XML (DTD, XSD, XPath, XQuery)
+* Bases de Datos (Oracle, MySQL)
+
+### 🟡 Aprendiendo actualmente
+
+* JavaScript
+
+### 🔜 Próximamente
+
+* Frameworks de JavaScript
+* Backend más avanzado
+* Desarrollo de aplicaciones web completas
+
+---
+
 # 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarasKentaki\&show_icons=true\&theme=cobalt)
@@ -69,33 +91,11 @@
 
 ---
 
-# 📚 Nivel actual de aprendizaje
-
-Java ☕
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
-
-HTML 🌐
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
-
-CSS 🎨
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
-
-XML 📄
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
-
-Bases de Datos 🗄️
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
-
-JavaScript ⚡
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%**
-
----
-
 # 🎯 Objetivos
 
 * 🚀 Mejorar en **Java**
 * 🌐 Dominar **HTML, CSS y JavaScript**
-* 🧠 Aprender **frameworks web**
+* 🧠 Aprender **frameworks modernos**
 * 🧩 Crear proyectos completos
 * 📦 Subir más proyectos a GitHub
 
