@@ -1,101 +1,110 @@
-<h1 align="center">👋 Hola, soy un desarrollador en aprendizaje</h1>
+<h1 align="center">👋 Hola, soy VarasKentaki</h1>
 
 <p align="center">
-💻 Estudiante de programación | 🚀 Aprendiendo desarrollo web | 📚 Mejorando cada día
+💻 Desarrollador en aprendizaje | 🌐 Futuro desarrollador web | 🚀 Construyendo proyectos mientras aprendo
 </p>
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-- 🎓 Estoy empezando en el mundo de la programación  
-- 🌱 Actualmente aprendiendo **Java, HTML, CSS, JavaScript**  
-- 🗄️ También estudiando **Bases de datos y XML**  
-- 💡 Me gusta aprender creando proyectos y experimentando  
-- 🎯 Objetivo: Convertirme en desarrollador web profesional  
+* 🎓 Estoy empezando en el mundo de la programación
+* 🌱 Actualmente aprendiendo **Java, HTML, CSS, JavaScript, XML y Bases de Datos**
+* 💡 Me gusta aprender creando proyectos y experimentando
+* 🎯 Objetivo: Convertirme en **desarrollador web profesional**
 
 ---
 
-## 🧠 Tecnologías que estoy aprendiendo
+# 🧠 Tecnologías que estoy aprendiendo
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse" />
 
 </p>
 
----
+### ☕ Backend
 
-## 📊 Estadísticas de GitHub
+* Java (**aprendiendo en Eclipse**)
 
-<p align="center">
+### 🌐 Frontend
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"/>
+* HTML
+* CSS
+* JavaScript
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight"/>
+### 🗄️ Bases de datos
 
-</p>
+* Oracle Database
+* MySQL
 
----
+### 📄 XML
 
-## 🔥 Racha de contribuciones
+* XML
+* DTD
+* XSD
+* XPath
+* XQuery
 
-<p align="center">
+### 🧰 Herramientas
 
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Actividad
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU-USUARIO&theme=tokyonight"/>
-
-</p>
+* Eclipse IDE
+* Visual Studio Code
+* Git
+* GitHub
 
 ---
 
-## 🛠️ Herramientas que uso
+# 📊 GitHub Stats
 
-- 💻 **Visual Studio Code**
-- 🗃️ **MySQL**
-- 🔧 **Git & GitHub**
-- ☕ **Java**
-- 🌐 **HTML / CSS / JavaScript**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarasKentaki\&show_icons=true\&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarasKentaki\&layout=compact\&theme=cobalt)
 
 ---
 
-## 📚 Actualmente aprendiendo
+# 🔥 GitHub Streak
 
-```text
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarasKentaki\&theme=cobalt\&locale=es)](https://git.io/streak-stats)
+
+---
+
+# 📚 Nivel actual de aprendizaje
+
 Java ☕
-██████████░░░░░░░ 60%
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
 
 HTML 🌐
-████████████░░░░ 75%
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
 
 CSS 🎨
-████████░░░░░░░░ 50%
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
+
+XML 📄
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
+
+Bases de Datos 🗄️
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **50%**
 
 JavaScript ⚡
-██████░░░░░░░░░░ 40%
-```
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%**
 
 ---
 
-## 🌍 Conecta conmigo
+# 🎯 Objetivos
+
+* 🚀 Mejorar en **Java**
+* 🌐 Dominar **HTML, CSS y JavaScript**
+* 🧠 Aprender **frameworks web**
+* 🧩 Crear proyectos completos
+* 📦 Subir más proyectos a GitHub
+
+---
 
 <p align="center">
 
-<a href="https://github.com/TU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=VarasKentaki&label=Visitas&color=blue&style=flat"/>
 
 </p>
-
----
 
 ⭐ *Siempre aprendiendo algo nuevo en programación*
