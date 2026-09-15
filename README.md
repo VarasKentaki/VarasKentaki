@@ -85,15 +85,18 @@ Mi objetivo es seguir aprendiendo mediante proyectos y mejorar progresivamente m
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarasKentaki\&show_icons=true\&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarasKentaki\&layout=compact\&theme=cobalt)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarasKentaki&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarasKentaki&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarasKentaki\&theme=cobalt\&locale=es)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VarasKentaki&theme=cobalt&locale=es&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
