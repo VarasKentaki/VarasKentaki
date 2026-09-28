@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/VarasKentaki"><img src="https://img.shields.io/badge/GitHub-VarasKentaki-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:alvarovarasalonso10@gmail.com"><img src="https://img.shields.io/badge/Email-alvarovarasalonso10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -21,6 +20,13 @@
 
 ---
 
+## 🌍 Idiomas
+
+- 🇪🇸 **Español**: nativo
+- 🇬🇧 **Inglés**: nivel básico-intermedio (lectura de documentación técnica y mejorando cada día)
+
+---
+
 ## ⚡ Tech Stack
 
 <p align="center">
@@ -28,8 +34,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
+  <img src="https://img.shields.io/badge/XML_·_XSD_·_XPath-005A9C?style=for-the-badge&logo=w3c&logoColor=white" alt="XML"/>
 </p>
 
 | Área | Tecnologías |
@@ -55,16 +61,12 @@ Estoy empezando a subir mis prácticas y proyectos del ciclo. Pronto encontrará
 - [ ] Mejorar en **JavaScript** y aprender un framework (React, Laravel, Spring...)
 - [ ] Desplegar aplicaciones con **Docker** y **Apache**
 - [ ] Aplicar buenas prácticas con **Git, GitHub y GitLab**
+- [ ] Mejorar mi **inglés técnico**
 - [ ] Terminar **2º de DAW** y dar el salto al mundo laboral
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarasKentaki&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarasKentaki&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VarasKentaki&theme=cobalt&locale=es&hide_border=true" alt="GitHub Streak" />
