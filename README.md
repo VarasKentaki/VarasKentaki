@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Alvaro</h1>
+<h1 align="center">👋 Hola, soy Álvaro</h1>
 
 <p align="center">
   Estudiante de 2º de <b>Desarrollo de Aplicaciones Web (DAW)</b> · Apasionado por crear proyectos y aprender tecnologías nuevas
