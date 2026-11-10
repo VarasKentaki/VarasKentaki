@@ -64,13 +64,13 @@ Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida q
       </a>
       <br/>
       🃏 <a href="https://varaskentaki.github.io/BlackJack/"><b>Ver demo →</b></a>
-    </td>
-     <td align="center">
-     <a href="https://github.com/VarasKentaki/BlackJack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=BlackJack&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="BlackJack"/>
+    </td> 
+    <td align="center">
+      <a href="https://github.com/VarasKentaki/Laberinto_Fantasmagorico">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=BlackJack&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="Laberinto"/>
       </a>
       <br/>
-      🎓 <a href="[https://varaskentaki.github.io/BlackJack/](https://varaskentaki.github.io/Laberinto_Fantasmagorico/)"><b>Ver demo →</b></a>
+      🎓 <a href="https://varaskentaki.github.io/Laberinto_Fantasmagorico/"><b>Ver demo →</b></a>
     </td>
   </tr>
   <tr>
