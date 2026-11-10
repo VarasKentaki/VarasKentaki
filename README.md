@@ -65,13 +65,17 @@ Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida q
       <br/>
       🃏 <a href="https://varaskentaki.github.io/BlackJack/"><b>Ver demo →</b></a>
     </td>
-    <!-- <td align="center">
-      PROYECTO 2: copia el bloque de la izquierda y cambia repo=NOMBRE y los enlaces
+     <td align="center">
+     <a href="https://github.com/VarasKentaki/BlackJack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=BlackJack&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="BlackJack"/>
+      </a>
+      <br/>
+      🎓 <a href="[https://varaskentaki.github.io/BlackJack/](https://varaskentaki.github.io/Laberinto_Fantasmagorico/)"><b>Ver demo →</b></a>
     </td>
   </tr>
   <tr>
  
-  </tr> -->
+  </tr> 
 </table>
 
 ---
