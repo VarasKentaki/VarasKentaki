@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=600&lines=Aprendo+construyendo+proyectos+%E2%98%95;Mejorando+como+programador+cada+d%C3%ADa;Curioso+por+naturaleza+%F0%9F%8C%B1;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=600&lines=Aprendo+construyendo+proyectos+%E2%98%95;Mejorando+como+programador+cada+d%C3%ADa;Curioso+por+naturaleza+%F0%9F%8C%B1;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida q
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=Laberinto_Fantasmagorico&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="Laberinto Fantasmagorico"/>
       </a>
       <br/>
-      🎓 <a href="https://varaskentaki.github.io/Laberinto_Fantasmagorico/"><b>Ver demo →</b></a>
+      🎓 <a href="https://github.com/VarasKentaki/Laberinto_Fantasmagorico"><b>Ver proyecto →</b></a>
     </td>
     <td align="center">
       <a href="https://github.com/VarasKentaki/ComeCocos">
