@@ -67,14 +67,18 @@ Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida q
     </td> 
     <td align="center">
       <a href="https://github.com/VarasKentaki/Laberinto_Fantasmagorico">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=BlackJack&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="Laberinto"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=Laberinto_Fantasmagorico&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="Laberinto Fantasmagorico"/>
       </a>
       <br/>
       🎓 <a href="https://varaskentaki.github.io/Laberinto_Fantasmagorico/"><b>Ver demo →</b></a>
     </td>
-  </tr>
-  <tr>
- 
+    <td align="center">
+      <a href="https://github.com/VarasKentaki/ComeCocos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=ComeCocos&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="ComeCocos"/>
+      </a>
+      <br/>
+      👻 <a href="https://varaskentaki.github.io/ComeCocos/"><b>Ver demo →</b></a>
+    </td>
   </tr> 
 </table>
 
