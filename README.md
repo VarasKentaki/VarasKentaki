@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D2B1F,50:6F4E37,100:D97757&height=230&section=header&text=Hola,%20soy%20Álvaro&fontSize=52&fontColor=F4EDE4&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20DAW%20·%20Aprendiendo%20a%20ser%20mejor%20programador&descAlignY=60&descSize=18&descAlign=50" alt="Cabecera"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D2B1F,50:6F4E37,100:D97757&height=230&section=header&text=Hola,%20soy%20%C3%81lvaro&fontSize=52&fontColor=F4EDE4&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20DAW%20%C2%B7%20Aprendiendo%20a%20ser%20mejor%20programador&descAlignY=60&descSize=18&descAlign=50" alt="Cabecera"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=600&lines=Aprendo+construyendo+proyectos+%E2%98%95;Mejorando+como+programador+cada+d%C3%ADa;Curioso+por+naturaleza+%F0%9F%8C%B1;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG"/></a>
+  <a href="https://github.com/VarasKentaki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=600&lines=Aprendo+construyendo+proyectos+%E2%98%95;Mejorando+como+programador+cada+d%C3%ADa;Curioso+por+naturaleza+%F0%9F%8C%B1;Siempre+aprendiendo+algo+nuevo" alt="Frases animadas"/></a>
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiando-2%C2%BA%20DAW-D97757?style=flat-square&labelColor=3D2B1F" alt="DAW"/>
-  <img src="https://img.shields.io/badge/Ahora-Aprendiendo%20y%20practicando-D97757?style=flat-square&labelColor=3D2B1F" alt="Ahora"/>
-  <img src="https://img.shields.io/badge/Disponible%20para-pr%C3%A1cticas-6F4E37?style=flat-square&labelColor=3D2B1F" alt="Disponible"/>
+  <img src="https://img.shields.io/badge/Estudiando-2%C2%BA%20DAW-D97757?style=flat-square&labelColor=3D2B1F" alt="Estudiando 2º DAW"/>
+  <img src="https://img.shields.io/badge/Ahora-Aprendiendo%20y%20practicando-D97757?style=flat-square&labelColor=3D2B1F" alt="Ahora aprendiendo y practicando"/>
+  <img src="https://img.shields.io/badge/Disponible%20para-pr%C3%A1cticas-6F4E37?style=flat-square&labelColor=3D2B1F" alt="Disponible para prácticas"/>
 </p>
 
 ---
@@ -34,52 +34,41 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,apache,docker,git,github,gitlab,vscode,eclipse&perline=7&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,apache,docker,git,github,gitlab,vscode,eclipse&perline=7&theme=dark" alt="Tech stack"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle_Database-D97757?style=for-the-badge&logo=oracle&logoColor=white&labelColor=3D2B1F" alt="Oracle Database"/>
-  <img src="https://img.shields.io/badge/XML_·_XSD_·_XPath-6F4E37?style=for-the-badge&logo=w3c&logoColor=F4EDE4" alt="XML"/>
+  <img src="https://img.shields.io/badge/XML_%C2%B7_XSD_%C2%B7_XPath-6F4E37?style=for-the-badge&logo=w3c&logoColor=F4EDE4" alt="XML, XSD y XPath"/>
 </p>
 
-<div align="center">
-
 ---
 
 ## 🔨 Proyectos
 
-Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida que avance. 👀
-
----
-
-## 🔨 Proyectos
-
-Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida que avance. 👀
+<p align="center">Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida que avance. 👀</p>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://github.com/VarasKentaki/BlackJack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=BlackJack&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="BlackJack"/>
-      </a>
-      <br/>
-      🃏 <a href="https://varaskentaki.github.io/BlackJack/"><b>Ver demo →</b></a>
-    </td> 
-    <td align="center">
-      <a href="https://github.com/VarasKentaki/Laberinto_Fantasmagorico">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=Laberinto_Fantasmagorico&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="Laberinto Fantasmagorico"/>
-      </a>
-      <br/>
-      🎓 <a href="https://varaskentaki.github.io/Laberinto_Fantasmagorico/"><b>Ver demo →</b></a>
+    <td align="center" valign="top">
+      <h3>🃏 <a href="https://github.com/VarasKentaki/BlackJack">BlackJack</a></h3>
+      <img src="https://img.shields.io/github/languages/top/VarasKentaki/BlackJack?style=flat-square&color=D97757&labelColor=3D2B1F" alt="Lenguaje principal de BlackJack"/><br/>
+      <img src="https://img.shields.io/github/last-commit/VarasKentaki/BlackJack?style=flat-square&color=6F4E37&labelColor=3D2B1F" alt="Último commit de BlackJack"/><br/><br/>
+      <a href="https://varaskentaki.github.io/BlackJack/"><img src="https://img.shields.io/badge/Ver%20demo-%E2%86%92-D97757?style=for-the-badge&labelColor=3D2B1F" alt="Ver demo de BlackJack"/></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/VarasKentaki/ComeCocos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarasKentaki&repo=ComeCocos&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37" alt="ComeCocos"/>
-      </a>
-      <br/>
-      👻 <a href="https://varaskentaki.github.io/ComeCocos/"><b>Ver demo →</b></a>
+    <td align="center" valign="top">
+      <h3>🎓 <a href="https://github.com/VarasKentaki/Laberinto_Fantasmagorico">Laberinto Fantasmagórico</a></h3>
+      <img src="https://img.shields.io/github/languages/top/VarasKentaki/Laberinto_Fantasmagorico?style=flat-square&color=D97757&labelColor=3D2B1F" alt="Lenguaje principal de Laberinto Fantasmagórico"/><br/>
+      <img src="https://img.shields.io/github/last-commit/VarasKentaki/Laberinto_Fantasmagorico?style=flat-square&color=6F4E37&labelColor=3D2B1F" alt="Último commit de Laberinto Fantasmagórico"/><br/><br/>
+      <a href="https://varaskentaki.github.io/Laberinto_Fantasmagorico/"><img src="https://img.shields.io/badge/Ver%20demo-%E2%86%92-D97757?style=for-the-badge&labelColor=3D2B1F" alt="Ver demo de Laberinto Fantasmagórico"/></a>
     </td>
-  </tr> 
+    <td align="center" valign="top">
+      <h3>👻 <a href="https://github.com/VarasKentaki/ComeCocos">ComeCocos</a></h3>
+      <img src="https://img.shields.io/github/languages/top/VarasKentaki/ComeCocos?style=flat-square&color=D97757&labelColor=3D2B1F" alt="Lenguaje principal de ComeCocos"/><br/>
+      <img src="https://img.shields.io/github/last-commit/VarasKentaki/ComeCocos?style=flat-square&color=6F4E37&labelColor=3D2B1F" alt="Último commit de ComeCocos"/><br/><br/>
+      <a href="https://varaskentaki.github.io/ComeCocos/"><img src="https://img.shields.io/badge/Ver%20demo-%E2%86%92-D97757?style=for-the-badge&labelColor=3D2B1F" alt="Ver demo de ComeCocos"/></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -98,18 +87,18 @@ Estos son algunos de mis proyectos y prácticas. Iré añadiendo más a medida q
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarasKentaki&show_icons=true&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37&locale=es" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarasKentaki&layout=compact&title_color=D97757&text_color=E8DCC8&bg_color=2B211B&border_color=6F4E37&locale=es" height="165" alt="Lenguajes top"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VarasKentaki&show_icons=true&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37&locale=es" height="165" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarasKentaki&layout=compact&title_color=D97757&text_color=E8DCC8&bg_color=2B211B&border_color=6F4E37&locale=es" height="165" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VarasKentaki&locale=es&background=2B211B&border=6F4E37&ring=D97757&fire=D97757&currStreakNum=F4EDE4&currStreakLabel=D97757&sideNums=F4EDE4&sideLabels=E8DCC8&dates=B89B80" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VarasKentaki&locale=es&background=2B211B&border=6F4E37&ring=D97757&fire=D97757&currStreakNum=F4EDE4&currStreakLabel=D97757&sideNums=F4EDE4&sideLabels=E8DCC8&dates=B89B80" alt="Racha de contribuciones"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:6F4E37,100:3D2B1F&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:6F4E37,100:3D2B1F&height=100&section=footer" alt="Pie de página"/>
 </p>
 
 <p align="center">
