@@ -87,8 +87,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarasKentaki&show_icons=true&title_color=D97757&text_color=E8DCC8&icon_color=D97757&bg_color=2B211B&border_color=6F4E37&locale=es" height="165" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarasKentaki&layout=compact&title_color=D97757&text_color=E8DCC8&bg_color=2B211B&border_color=6F4E37&locale=es" height="165" alt="Lenguajes más usados"/>
+  <img src="https://raw.githubusercontent.com/VarasKentaki/VarasKentaki/main/profile-summary-card-output/gruvbox/0-profile-details.svg" width="75%" alt="Perfil de GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VarasKentaki/VarasKentaki/main/profile-summary-card-output/gruvbox/3-stats.svg" width="49%" alt="Estadísticas de GitHub"/>
+  <img src="https://raw.githubusercontent.com/VarasKentaki/VarasKentaki/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="49%" alt="Repositorios por lenguaje"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VarasKentaki/VarasKentaki/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" width="49%" alt="Lenguajes con más commits"/>
+  <img src="https://raw.githubusercontent.com/VarasKentaki/VarasKentaki/main/profile-summary-card-output/gruvbox/4-productive-time.svg" width="49%" alt="Horas más productivas"/>
 </p>
 
 <p align="center">
