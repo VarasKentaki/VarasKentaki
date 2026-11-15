@@ -31,6 +31,19 @@
 
 ---
 
+## 🔥 Mi mentalidad
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/2zbYc8DFHPUAAAAd/marty-supreme.gif" width="45%" alt="Marty Supreme"/>
+  <img src="https://media1.tenor.com/m/08nSzJF021EAAAAd/adaptation-bag-secured.gif" width="45%" alt="Isagi Yoichi"/>
+</p>
+
+- 👑 **Ego:** Creo que es importante querer hacer las cosas mejor y no conformarse con que el codigo funcione.
+- 🎯 **Obsesión:** darle vueltas a un problema hasta que sale, aunque tarde mucho.Creo que cuando llegas a este punto de verdad tienes la mentalidad de un programador.
+- 🔄 **Adaptabilidad:** aprender de cada proyecto y de cada error para cambiar la forma de resolver el siguiente.
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -68,11 +81,11 @@
       <img src="https://img.shields.io/github/last-commit/VarasKentaki/ComeCocos?style=flat-square&color=6F4E37&labelColor=3D2B1F" alt="Último commit de ComeCocos"/><br/><br/>
       <a href="https://varaskentaki.github.io/ComeCocos/"><img src="https://img.shields.io/badge/Ver%20demo-%E2%86%92-D97757?style=for-the-badge&labelColor=3D2B1F" alt="Ver demo de ComeCocos"/></a>
     </td>
-      <td align="center" valign="top">
-      <h3>🤐 <a href="https://github.com/VarasKentaki/CONECTA4">ComeCocos</a></h3>
-      <img src="https://img.shields.io/github/languages/top/VarasKentaki/CONECTA4?style=flat-square&color=D97757&labelColor=3D2B1F" alt="Lenguaje principal de ComeCocos"/><br/>
-      <img src="https://img.shields.io/github/last-commit/VarasKentaki/CONECTA4?style=flat-square&color=6F4E37&labelColor=3D2B1F" alt="Último commit de ComeCocos"/><br/><br/>
-      <a href="https://varaskentaki.github.io/ComeCocos/"><img src="https://img.shields.io/badge/Ver%20demo-%E2%86%92-D97757?style=for-the-badge&labelColor=3D2B1F" alt="Ver demo de CONECTA4"/></a>
+    <td align="center" valign="top">
+      <h3>🤐 <a href="https://github.com/VarasKentaki/CONECTA4">CONECTA4</a></h3>
+      <img src="https://img.shields.io/github/languages/top/VarasKentaki/CONECTA4?style=flat-square&color=D97757&labelColor=3D2B1F" alt="Lenguaje principal de CONECTA4"/><br/>
+      <img src="https://img.shields.io/github/last-commit/VarasKentaki/CONECTA4?style=flat-square&color=6F4E37&labelColor=3D2B1F" alt="Último commit de CONECTA4"/><br/><br/>
+      <a href="https://varaskentaki.github.io/CONECTA4/"><img src="https://img.shields.io/badge/Ver%20demo-%E2%86%92-D97757?style=for-the-badge&labelColor=3D2B1F" alt="Ver demo de CONECTA4"/></a>
     </td>
   </tr>
 </table>
