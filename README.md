@@ -89,11 +89,13 @@
     </td>
   </tr>
   <tr>
-   <h3> 🙈<a href="https://github.com/VarasKentaki/-Aplastatopos">Aplastatopos</a></h3>
+    <td align="center" valign="top">
+     <h3> 🙈<a href="https://github.com/VarasKentaki/-Aplastatopos">Aplastatopos</a></h3>
       <img src="https://img.shields.io/github/languages/top/VarasKentaki/-Aplastatopos?style=flat-square&color=D97757&labelColor=3D2B1F" alt="Lenguaje principal de -Aplastatopos"/><br/>
       <img src="https://img.shields.io/github/last-commit/VarasKentaki/-Aplastatopos?style=flat-square&color=6F4E37&labelColor=3D2B1F" alt="Último commit de -Aplastatopos"/><br/><br/>
       <a href="https://varaskentaki.github.io/-Aplastatopos/"><img src="https://img.shields.io/badge/Ver%20demo-%E2%86%92-D97757?style=for-the-badge&labelColor=3D2B1F" alt="Ver demo de Aplastatopos"/></a>
-  </tr>tr
+   </td>
+  </tr>
 </table>
 
 ---
